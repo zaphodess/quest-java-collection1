@@ -13,7 +13,6 @@ public class Thanos {
         // name: Iron Man, age: 48
         // name: Scarlet Witch, age: 29
         // name: Thor, age: 1500
-        // name: Spider-Man, age: 18
         // name: Hulk, age: 49
         // name: Doctor Strange, age: 42
 
